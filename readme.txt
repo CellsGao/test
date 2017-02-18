@@ -1,2 +1,2 @@
 This is a test
-This is the master’s change
+Creating a new branch is easy and simple
